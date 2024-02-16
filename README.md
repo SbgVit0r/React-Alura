@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## URL DO PROJETO: https://vercel.com/vitor-sbeghis-projects/react-alura
+## URL DO PROJETO: [https://vercel.com/vitor-sbeghis-projects/react-alura](https://react-alura-sooty.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
